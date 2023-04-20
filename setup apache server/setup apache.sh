@@ -1,5 +1,3 @@
-/* can you write bash script code example */
-
 # install apache
 sudo apt-get install apache2
 
